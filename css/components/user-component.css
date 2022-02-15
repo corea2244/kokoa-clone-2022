@@ -11,6 +11,16 @@
   margin-right: 15px;
 }
 
+.user-component__avatar--sm {
+  width: 60px;
+  height: 60px;
+}
+
+.user-component__avatar--xl {
+  width: 80px;
+  height: 80px;
+}
+
 .user-component__title {
   font-weight: 600;
   font-size: 22px;
