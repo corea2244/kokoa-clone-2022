@@ -10,6 +10,12 @@
   align-items: center;
 }
 
+.screen-header__icons {
+  display: flex;
+  align-items: center;
+}
+
 .screen-header__icons span {
+  text-align: center;
   margin-left: 25px;
 }
