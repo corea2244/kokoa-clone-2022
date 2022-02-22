@@ -4,11 +4,13 @@
   height: 100vh;
   width: 100vw;
   background-color: var(--yellow);
+  color: white;
+  font-weight: bold;
   display: flex;
   top: 0;
   justify-content: center;
   align-items: center;
-  font-size: 35px;
+  font-size: 45px;
 }
 
 @media screen and (max-width: 645px) {
